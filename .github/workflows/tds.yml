@@ -2,6 +2,7 @@ name: TDS Action
 
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   test:
